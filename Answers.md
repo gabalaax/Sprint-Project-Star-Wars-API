@@ -5,6 +5,7 @@
 1. What does it mean to think in react?
 
 1. Describe state.
+kgchjfcjhgchchfchfchfc
 
 1. Describe props.
 
